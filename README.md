@@ -5,3 +5,31 @@ For this, the design of a knee prosthesis and a total knee prosthesis was carrie
 and Blender, which provides an image of the elements in a stl image format for study and 3D printing, to
 improve the knee prosthesis that already exist.
 
+## Patient 3D tomography:
+
+![image](https://user-images.githubusercontent.com/69557269/216721528-bdce43c7-fcf7-4629-bd42-425bdac61bb3.png =250x250)
+
+## Segmentation IA:
+
+![image](https://user-images.githubusercontent.com/69557269/216721609-97626cfc-c29f-473c-8236-a3ef03cd6bb0.png =250x250)
+
+## Manual segmentation:
+
+![image](https://user-images.githubusercontent.com/69557269/216721745-ecb81ac0-536b-4aeb-a4a6-4b9d123e6e24.png =250x250)
+
+## Blender image:
+
+![image](https://user-images.githubusercontent.com/69557269/216721929-9df27625-8e43-47e7-979f-4ad8dde753ec.png =250x250)
+
+## Blender image prosthesis:
+
+![image](https://user-images.githubusercontent.com/69557269/216722019-dd3349b0-0ddf-46b5-9714-4660122fa0c3.png =250x250)
+
+## Blender image implant:
+
+![image](https://user-images.githubusercontent.com/69557269/216722377-97883f7e-dab0-4830-9e85-4a274340ba9a.png =250x250)
+
+## Autores ✒
+
+* **Daniel Alvarado Pelaéz** 
+* **Marcelo Mendoza Hidalgo** 
