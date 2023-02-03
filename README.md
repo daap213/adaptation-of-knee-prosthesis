@@ -7,27 +7,27 @@ improve the knee prosthesis that already exist.
 
 ## Patient 3D tomography:
 
-![image](https://user-images.githubusercontent.com/69557269/216721528-bdce43c7-fcf7-4629-bd42-425bdac61bb3.png =250x250)
+<img src="https://user-images.githubusercontent.com/69557269/216721528-bdce43c7-fcf7-4629-bd42-425bdac61bb3.png" width="700" height="500">
 
 ## Segmentation IA:
 
-![image](https://user-images.githubusercontent.com/69557269/216721609-97626cfc-c29f-473c-8236-a3ef03cd6bb0.png =250x250)
+<img src="https://user-images.githubusercontent.com/69557269/216721609-97626cfc-c29f-473c-8236-a3ef03cd6bb0.png" width="700" height="500">
 
 ## Manual segmentation:
 
-![image](https://user-images.githubusercontent.com/69557269/216721745-ecb81ac0-536b-4aeb-a4a6-4b9d123e6e24.png =250x250)
+<img src="https://user-images.githubusercontent.com/69557269/216721745-ecb81ac0-536b-4aeb-a4a6-4b9d123e6e24.png" width="700" height="500">
 
 ## Blender image:
 
-![image](https://user-images.githubusercontent.com/69557269/216721929-9df27625-8e43-47e7-979f-4ad8dde753ec.png =250x250)
+<img src="https://user-images.githubusercontent.com/69557269/216721929-9df27625-8e43-47e7-979f-4ad8dde753ec.png" width="700" height="500">
 
 ## Blender image prosthesis:
 
-![image](https://user-images.githubusercontent.com/69557269/216722019-dd3349b0-0ddf-46b5-9714-4660122fa0c3.png =250x250)
+<img src="https://user-images.githubusercontent.com/69557269/216722019-dd3349b0-0ddf-46b5-9714-4660122fa0c3.png" width="700" height="500">
 
 ## Blender image implant:
 
-![image](https://user-images.githubusercontent.com/69557269/216722377-97883f7e-dab0-4830-9e85-4a274340ba9a.png =250x250)
+<img src="https://user-images.githubusercontent.com/69557269/216722377-97883f7e-dab0-4830-9e85-4a274340ba9a.png" width="700" height="500">
 
 ## Autores ✒
 
